@@ -1,0 +1,71 @@
+      #rodzic {
+        background-color:white;
+        border:3px dashed red;
+        font-size:1.4em;
+		width:100%;
+      }
+
+      #rodzic:after {
+        content:'';
+        display:block;
+        clear:both;
+      }
+
+      #dziecko1 {
+        float:right;
+        width:30%;
+				height:90%;
+        background-color:lightblue;
+      }
+
+      #dziecko2 {
+        float:right;
+        width:30%;
+				height:90%;
+        background-color:lightgreen;
+      }
+
+      #dziecko3 {
+        float:right;
+        width:30%;
+				height:90%;
+        background-color:lightblue;
+      }
+
+      div > div{
+        margin:0.5%;
+        padding:0.5%;
+        border:1px solid blue;
+        background-color:gold;
+	  }
+		div > div > img{
+        width:100%;
+		float;
+		height:100%;
+			  }
+      }
+	  table{
+		  		  border:3px solid red;
+	  }
+	  #tedekjeden
+	  {
+		border:3px solid red;
+		  width:60%;
+
+	  }
+	  #tedekdwa
+	  {
+		  border:3px solid red;
+		  width:40%;
+	  }
+	  	  #divx
+	  {
+		  float:left;
+		  width:30%;
+	  }
+	  		table>tbody>tr>td > div > img{
+        width:100%;
+		float;
+		height:100%;
+			  }
+	  
